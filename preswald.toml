@@ -1,0 +1,14 @@
+[app]
+title = "IPL Deliveries Analysis"
+
+[branding]
+favicon = "favicon.ico" 
+logo = "logo.png"        
+theme = "dark"               
+
+[data.deliveries]
+path = "deliveries.csv"
+type = "csv"
+
+[settings]
+description = "Analysing the IPL from 2008 to 2024."
